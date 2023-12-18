@@ -1,1 +1,5 @@
 # Overrides for production environment
+
+baseURL = 'https://abdullhakim-sami.github.io/Sanabil_Al_Firdaws/'
+
+canonifyURLs = true
