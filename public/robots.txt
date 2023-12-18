@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /admin/
+Sitemap: https://abdullhakim-sami.github.io/sitemap.xml
